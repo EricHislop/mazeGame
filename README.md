@@ -11,8 +11,6 @@ A basic maze terminal game
 * `dotnet restore`
 * `dotnet run`
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Built With
 
 * [dotnetcore](https://www.microsoft.com/net/core)
